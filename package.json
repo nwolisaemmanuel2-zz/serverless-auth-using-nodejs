@@ -32,7 +32,7 @@
     "pino": "^4.7.1"
   },
   "devDependencies": {
-    "aws-sdk": "^2.94.0",
+    "aws-sdk": "^2.814.0",
     "babel": "^6.23.0",
     "babel-cli": "^6.24.1",
     "babel-core": "^6.25.0",
